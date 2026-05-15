@@ -16,9 +16,12 @@ Testing : AUC 0.8021
 <br>
 <img width="361" height="180" alt="图片" src="https://github.com/user-attachments/assets/b1ef3f71-fc4a-4ea7-93e1-5338ca00bd46" />  
 <br>
+<br>
+<br>
 开源SOTA FuxiCTR ，开启了Best模型的情况下
 <br>
 <img width="686" height="120" alt="图片" src="https://github.com/user-attachments/assets/166cabfe-0472-41bc-a39d-34a5315c5d23" />
+<br>
 <br>
 <br>
 业界google 顶级论文DCN-v2，AUC 0.8099，google的自己模型评论（待证）
