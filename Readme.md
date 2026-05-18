@@ -9,31 +9,11 @@ Test is on One Epoch and Time-split (Day 1-5 -> Day 7) and  No Best Selection an
 工业工程级测试标准。
 <br>
 
-1. First Step of Test:
-
-Testing : AUC 0.8021
-
-<img width="386" height="18" alt="图片" src="https://github.com/user-attachments/assets/070137c4-7f8f-4e33-83ee-9ebe7a2934cf" />  
-<br>
-<img width="361" height="180" alt="图片" src="https://github.com/user-attachments/assets/b1ef3f71-fc4a-4ea7-93e1-5338ca00bd46" />  
-<br>
-<br>
-
-2. Second Step of Test:
-
-Testing : AUC 0.8035
-
-<img width="343" height="21" alt="图片" src="https://github.com/user-attachments/assets/23e81279-aebb-4b40-b2a9-324f82a1ed8e" />
-<br>
-<img width="461" height="268" alt="图片" src="https://github.com/user-attachments/assets/6cae3a40-1673-4c7d-9a49-07b24d67a1fe" />
-<br>
-<br>
-
-3. Third Step of Test:
+1. One Step of Test:
 
 Testing : AUC 0.8055
 
-<img width="551" height="695" alt="图片" src="https://github.com/user-attachments/assets/8333f505-2cea-498d-b874-27e0da846d49" />
+<img width="682" height="728" alt="图片" src="https://github.com/user-attachments/assets/b83c929b-8e4c-4761-a152-54b0f62f54be" />
 
 <br>
 <br>
