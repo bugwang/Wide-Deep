@@ -8,7 +8,7 @@ Test is on One Epoch and Time-split (Day 1-5 -> Day 7) and  No Best Selection an
 
 工业工程级测试标准。
 
-First Step of Test:
+1. First Step of Test:
 
 Testing : AUC 0.8021
 
@@ -17,7 +17,8 @@ Testing : AUC 0.8021
 <img width="361" height="180" alt="图片" src="https://github.com/user-attachments/assets/b1ef3f71-fc4a-4ea7-93e1-5338ca00bd46" />  
 <br>
 
-Second Step of Test:
+2. Second Step of Test:
+
 Testing : AUC 0.8035
 
 <img width="343" height="21" alt="图片" src="https://github.com/user-attachments/assets/23e81279-aebb-4b40-b2a9-324f82a1ed8e" />
