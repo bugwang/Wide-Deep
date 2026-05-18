@@ -26,6 +26,14 @@ Testing : AUC 0.8035
 <img width="343" height="21" alt="图片" src="https://github.com/user-attachments/assets/23e81279-aebb-4b40-b2a9-324f82a1ed8e" />
 <br>
 <img width="461" height="268" alt="图片" src="https://github.com/user-attachments/assets/6cae3a40-1673-4c7d-9a49-07b24d67a1fe" />
+<br>
+<br>
+
+3. Third Step of Test:
+
+Testing : AUC 0.8055
+
+<img width="551" height="695" alt="图片" src="https://github.com/user-attachments/assets/8333f505-2cea-498d-b874-27e0da846d49" />
 
 <br>
 <br>
