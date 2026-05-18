@@ -4,7 +4,7 @@ Only C++ header file.
 criteo 45M datasets (7:2:1).
 
 Remark and Note ：
-Test is on One Epoch and Time-split (Day 1-5 -> Day 7) and  No Best Selection adn No Cumulative Features
+Test is on One Epoch and Time-split (Day 1-5 -> Day 7) and  No Best Selection and No Cumulative Features
 
 工业工程级测试标准。
 
@@ -16,6 +16,13 @@ Testing : AUC 0.8021
 <br>
 <img width="361" height="180" alt="图片" src="https://github.com/user-attachments/assets/b1ef3f71-fc4a-4ea7-93e1-5338ca00bd46" />  
 <br>
+
+Second Step of Test:
+Testing : AUC 0.8035
+<img width="343" height="21" alt="图片" src="https://github.com/user-attachments/assets/23e81279-aebb-4b40-b2a9-324f82a1ed8e" />
+<br>
+<img width="461" height="268" alt="图片" src="https://github.com/user-attachments/assets/6cae3a40-1673-4c7d-9a49-07b24d67a1fe" />
+
 <br>
 <br>
 开源SOTA FuxiCTR ，开启了Best模型的情况下
