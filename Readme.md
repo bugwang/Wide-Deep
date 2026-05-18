@@ -23,7 +23,4 @@ Testing : AUC 0.8055
 <br>
 <br>
 <br>
-业界google 顶级论文DCN-v2，AUC 0.8099，google的自己模型评论（待证）
-<br>
-<img width="660" height="282" alt="图片" src="https://github.com/user-attachments/assets/4ea6d153-82be-4a65-af53-e1ca11ab8790" />
 
