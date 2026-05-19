@@ -4,13 +4,16 @@ Only C++ header file.
 criteo 45M datasets (7:2:1) or (9:1).
 
 Remark and Note ：
-Test is on One Epoch and Time-split (Day1-5 -> Day7/ Day1-4 -> Day6) or (Day1-6 -> Day7/Day1-5 - > Day6) and  No Best Selection and No Cumulative Features
+
+  Test is on One Epoch and Time-split (Day1-5 -> Day7/ Day1-4 -> Day6) or (Day1-6 -> Day7/Day1-5 - > Day6) and  No Best Selection and No    Cumulative Features
 
 工业工程级测试标准：
-按FuxiCTR 方式训练测试 one epoch AUC 0.8055 （FuxiCtr AUC 看下图，感觉有问题）, 
-按google 方式训练测试最后 AUC 0.8085    （google AUC 0.8099）
 
-微调太费时间了，懒得再优化了。
+  1. 按FuxiCTR 方式训练测试 one epoch AUC 0.8055 （FuxiCtr AUC 看下图，感觉有问题）
+
+  2. 按google 方式训练测试 one epoch AUC 0.8085    （google AUC 0.8099）
+
+  微调太费时间了，懒得优化了...
 
 <br>
 
