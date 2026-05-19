@@ -49,9 +49,10 @@ Testing : AUC 0.8085 (day1-5 -> day 6 )
 <img width="686" height="120" alt="图片" src="https://github.com/user-attachments/assets/166cabfe-0472-41bc-a39d-34a5315c5d23" />
 <br>
 <br>
-有一些不太合理的地方。
-<br>
+有一些不太合理的地方:
+
 1. 很多轮后 突然跳涨0.004 罕见
+
 <img width="707" height="434" alt="图片" src="https://github.com/user-attachments/assets/eecd1a58-c60c-473e-85ff-ffb845951c1c" />
 <br>
 2. Test AUC > Validation AUC > Train AUC (罕见而且不合理)
