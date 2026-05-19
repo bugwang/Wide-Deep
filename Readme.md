@@ -6,14 +6,23 @@ criteo 45M datasets (7:2:1).
 Remark and Note ：
 Test is on One Epoch and Time-split (Day 1-5 -> Day 7) and  No Best Selection and No Cumulative Features
 
-工业工程级测试标准。
+工业工程级测试标准：
+按FuxiCTR 方式训练测试 one epoch AUC 0.8055 （FuxiCtr 看下图，感觉有问题）, 
+按google 方式训练测试最后 AUC 0.8085    （google AUC 0.9099）
+微调太费时间了，懒得再优化了。
+
 <br>
 
 1. One Step of Test:
 
-Testing : AUC 0.8055
+Testing : AUC 0.8055 (day1-4 -> day 6)
 
 <img width="682" height="728" alt="图片" src="https://github.com/user-attachments/assets/b83c929b-8e4c-4761-a152-54b0f62f54be" />
+
+Testing : AUC 0.8085 (day1-5 -> day 6 )
+
+<img width="636" height="692" alt="图片" src="https://github.com/user-attachments/assets/67f12071-2b65-4c9c-9f67-f431da30ea83" />
+
 
 <br>
 <br>
