@@ -11,7 +11,7 @@ Remark and Note ：
 
   1. 按FuxiCTR 方式训练测试 one epoch AUC 0.8055 （FuxiCtr AUC 看下图，感觉有问题）
 
-  2. 按google 方式训练测试 one epoch AUC 0.8085    （google AUC 0.8099）
+  2. 按google 方式训练测试 one epoch AUC 0.8085    （google AUC 0.8099 实验环境 ，按工业工程级实际大概 0.8066）
 
   微调太费时间了，懒得优化了...
 
@@ -44,4 +44,5 @@ Testing : AUC 0.8085 (day1-5 -> day 6 )
 
 <br>
 <br>
+<img width="698" height="182" alt="图片" src="https://github.com/user-attachments/assets/95a3fd15-1b59-4992-ad10-1979aa04c3aa" />
 
