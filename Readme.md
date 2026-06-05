@@ -25,7 +25,7 @@ Remark and Note ：
 
   1. 按FuxiCTR 方式训练测试DeepFM模型 one epoch AUC 0.8055 （FuxiCtr AUC 看下图，感觉有问题）
 
-  2. 按google 方式训练测试DeepFM模型 one epoch AUC 0.8085    （google AUC 0.8099 实验环境 ，非 day by day 即没有按天时序测试 ，如 ，按工业工程级实际大概 0.8066）, DCN-M 或者 DCN-MR 或者 DCNv2模型测试只有0.8077 ，不知道是否还有其他原因。效果反而不如DeepFM。
+  2. 按google 方式训练测试DeepFM模型 one epoch AUC 0.8085    （google AUC 0.8099 实验环境 ，非 day by day 即没有按天时序测试 ，如 ，按工业工程级实际大概 0.8066）, DCN-M 或者 DCN-MR 或者 DCNv2模型测试只有0.8077-0.8080 ，不知道是否还有其他原因。效果反而不如DeepFM。
 
   微调太费时间了，懒得优化了...
 
@@ -41,9 +41,11 @@ DeepFM Testing : AUC 0.8085 (day1-5 -> day 6 )
 
 <img width="636" height="692" alt="图片" src="https://github.com/user-attachments/assets/67f12071-2b65-4c9c-9f67-f431da30ea83" />
 
-DCN-V2 Testing : AUC 0.8077 (day1-5 -> day 6 )
+DCN-V2 Testing : AUC 0.8077-0.8080 (day1-5 -> day 6 )
 
 <img width="758" height="692" alt="图片" src="https://github.com/user-attachments/assets/584e8620-3283-4959-9038-7d4326b6dc23" />
+
+<img width="666" height="700" alt="图片" src="https://github.com/user-attachments/assets/28bea43f-6e67-4191-a347-2158468e88e5" />
 
 <br>
 <br>
